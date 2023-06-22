@@ -1,14 +1,13 @@
 /* eslint-disable no-unused-vars */
-import React from 'react'
-import './App.css'
-import PasswordGPage from './pages/passwordG'
+import React from "react";
+import "./App.css";
+import PasswordGPage from "./pages/passwordG";
 function App() {
-
   return (
-   <>
-    <PasswordGPage />
+    <>
+      <PasswordGPage />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
